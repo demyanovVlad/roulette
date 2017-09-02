@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
+import threading
 #====================================================================================================================================================================================================================
 
 def getColor(driver, last):
@@ -30,17 +31,12 @@ driver.set_window_size(1920,1080)
 driver.get('http://csgofast.com/#game/double')
 last=[getNumberOfFirstGame(driver)]
 
-i=0
 
-while i<100:
-    round = getColor(driver, last)
-    if round:
-        print(round)
-        #print("true")
-    else:
-        time.sleep(20)
-        #print("false")
-    i+=1
+
+while 1:
+   if last[0]+1 == getNumberOfFirstGame(driver):
+       print(getColor(driver,last))
+
 
 
 driver.quit()
