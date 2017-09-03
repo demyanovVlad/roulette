@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-import threading
 #====================================================================================================================================================================================================================
 
 def getColor(driver, last):
@@ -23,21 +22,23 @@ def getNumberOfFirstGame(driver):
     number=driver.find_element_by_xpath("/html/body/div[3]/div[2]/div/div/div[1]/div/div[4]/div[4]/div[1]/span/span")
     #print(int(number.text))
     return int(number.text)
-
 #====================================================================================================================================================================================================================
 
-driver=webdriver.PhantomJS()
-driver.set_window_size(1920,1080)
-driver.get('http://csgofast.com/#game/double')
-last=[getNumberOfFirstGame(driver)]
+if __name__ == '__main__':
+    driver=webdriver.PhantomJS()
+    driver.set_window_size(1920,1080)
+    driver.get('http://csgofast.com/#game/double')
+    last=[getNumberOfFirstGame(driver)]
+    while 1:
+       if last[0]+1 == getNumberOfFirstGame(driver):
+           f = open("rez.txt", "a")
+           color=getColor(driver,last)
+           f.write(color + '\n')
+           print(color)
+           f.close()
+           time.sleep(50)
 
 
 
-while 1:
-   if last[0]+1 == getNumberOfFirstGame(driver):
-       print(getColor(driver,last))
 
-
-
-driver.quit()
-
+    driver.quit()
