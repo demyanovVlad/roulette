@@ -73,3 +73,129 @@
   value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
 
   phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:48:54.702Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:48:54.702Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:48:54.702Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:48:54.702Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:12.046Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:12.046Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:19.850Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:19.850Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:19.850Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:19.851Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:44.780Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:44.780Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:44.780Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:49:44.780Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:02.135Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:02.135Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:09.824Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:09.824Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:09.825Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:09.825Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:34.835Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:34.835Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:34.836Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:34.836Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:52.211Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:50:52.211Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:00.383Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:00.383Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:00.383Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:00.383Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:24.910Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:24.911Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:24.911Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:24.911Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:42.270Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.pause()')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-09-03T21:51:42.270Z] Session [725aa270-90f1-11e7-abe0-d3cb0877cecc] - page.onError - stack:
+  value (http://csgofast.com/app.js?c96adff4df50397aec7a:24)
+
+  phantomjs://platform/console++.js:263 in error
